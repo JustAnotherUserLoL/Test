@@ -1,0 +1,10 @@
+no\itera\hackme\service\LoginService.class
+no\itera\hackme\exceptionhandler\GlobalExceptionHandler.class
+no\itera\hackme\repository\UserRepository.class
+no\itera\hackme\HackMeApplication.class
+no\itera\hackme\controller\PersonController.class
+no\itera\hackme\controller\MainController.class
+no\itera\hackme\config\WebSecurityConfig.class
+no\itera\hackme\dto\Person.class
+no\itera\hackme\dto\User.class
+no\itera\hackme\config\SimpleAuthenticationProvider.class
